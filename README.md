@@ -1,5 +1,5 @@
 # Figure-Eight-Disaster-Response-Pipeline
-### Disaster Reponse Pipeline for Udacity Data Science nanodegree
+### Project Overview
 
 This Web app uses Machine Learning to predict the classification of a given typical disaster emergency response text message. For example, if the input is: "My house is burning down", the classification category should be "Fire". This application is useful to identify emergency response services required.
 
